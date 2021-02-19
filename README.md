@@ -11,3 +11,4 @@ This project studies the impact of energy distribution per region before and dur
 ## Technologies
 Project is created with:
 * Python 3.8
+* Power Bi
